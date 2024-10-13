@@ -35,6 +35,5 @@ public class DotEnemySecker : MonoBehaviour
                 c.gameObject.GetComponent<EnemyMove>().StartMove();
             }
         }
-
     }
 }
